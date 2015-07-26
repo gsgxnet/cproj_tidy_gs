@@ -7,4 +7,4 @@ run_analysis.R file.
 
 The R file will do the task when the raw files are in the same working directory and subdirecories with the same tree structure as the zip source contains. 
 
-The data structures are descibed in the file codebook.md
+The data structures are descibed in the file codebook.md (incomplete)
